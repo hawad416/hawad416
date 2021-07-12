@@ -3,11 +3,21 @@
 
 ### Salam, I'm Hawa!
 #### Computer Science Student | Activist | Community Leader | Aspiring Software Developer | Aspring Researcher
+<hr>
 
-<a href="https://www.linkedin.com/in/hawadrammeh/" target="_blank">
+
+<span>
+<a href="https://www.linkedin.com/in/hawadrammeh/" target="_blank" style="margin-right:50px">
   <img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="icon of Linkedin" width="16px" />
-  Let's connect!
-</a>
+   Let's connect!       
+  </a>
+  <br>
+  <br>
+<a href="https://www.youtube.com/channel/UCWIMo_AmBpRFRpk3a5TDUhg" target="_blank" style= "padding: 10px">
+ <img src="https://img.icons8.com/doodle/48/000000/youtube-play--v2.png" width="23px" height="18px"/>
+  Check Out My Coding Practice Videos Here!
+  </a>
+</span>
 
 #### I am currently:
 - 💻 Software Engineering Intern at Symetra 
@@ -24,6 +34,9 @@
   
   </ul>
 </p>
+
+<hr>
+
 
 #### I have experience with:
 ##### Languages
@@ -88,5 +101,5 @@
 
 </span>
 
-<p><b>Sometimes, I like to record myself solving coding problems & track my progress🤓 </b>
-  <br >See my videos here: <a href="https://www.youtube.com/channel/UCWIMo_AmBpRFRpk3a5TDUhg">Java With Hawa </a>
+
+
