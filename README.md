@@ -20,7 +20,7 @@
 </span>
 
 #### I am currently:
-- 💻 Software Engineering Intern at Symetra 
+- 💻 Incoming Software Engineering Intern at Google! Previous Software Developer Intern at Symetra 
 - 👩🏽‍🏫 Founder, Tutor, and Junior Web Developer at Tutors of the Smiling Coast - Check out the Website Here: <a href="https://www.tutorsofthesmilingcoast.com"> Tutors of the Smiling Coast</a>
 - 🎓 B.S. Computer Science at University of Washington - Paul G. Allen School of Computer Science & Engineering (Expected June 2023)  
 - 📍 &nbsp;Located in Seattle, WA  
