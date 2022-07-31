@@ -8,7 +8,7 @@
 
 <span>
 <a href="https://www.linkedin.com/in/hawadrammeh/" target="_blank" style="margin-right:50px">
-  <img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="icon of Linkedin" width="16px" />
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="icon of Linkedin" width="16px" />
    Let's connect!       
   </a>
   <br>
@@ -93,7 +93,7 @@
   </a>
   <!-- docker -->
   <a href="https://www.docker.com/">
-    <img src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" alt="docker" height="30px" />
+    <img src="https://www.svgrepo.com/show/349342/docker.svg" alt="docker" height="30px" />
   </a>  
   <!-- command line -->
   <a href="https://www.gnu.org/software/bash/manual/bash.html">
