@@ -2,7 +2,7 @@
 <h1 align="center">   ~ بسم الله الرحمن الرحيم ~  </h1>
 
 ### Salam, I'm Hawa!
-#### Computer Science Student | Activist | Community Leader | Aspiring Software Engineer | Aspring Ubiquitous Computing  Researcher
+#### Student of Knowledge....
 <hr>
 
 
