@@ -17,12 +17,13 @@
  <img src="https://img.icons8.com/doodle/48/000000/youtube-play--v2.png" width="23px" height="18px"/>
   Check Out My Coding Practice Videos Here!
   </a>
+  <br>
+  <br>
+  
+  <a href="https://medium.com/me/stories/public" target="_blank" style= "padding: 10px"> Check Out my Medium Blog! </a>
 </span>
 
-###Blog 
-<span>
-<a href="https://medium.com/me/stories/public" target="_blank" style= "padding: 10px"> Medium Blog! </a>
-  </span>
+
 
 
 
