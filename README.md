@@ -19,9 +19,9 @@
   </a>
 </span>
 
-## Medium Blog 
+###Blog 
 <span>
-<a href="https://medium.com/me/stories/public" target="_blank" style= "padding: 10px">
+<a href="https://medium.com/me/stories/public" target="_blank" style= "padding: 10px"> Medium Blog! </a>
   </span>
 
 
