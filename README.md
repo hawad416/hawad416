@@ -19,6 +19,12 @@
   </a>
 </span>
 
+## Medium Blog 
+<a href="https://medium.com/me/stories/public" target="_blank" style= "padding: 10px">
+
+
+
+
 #### I am currently:
 - 💻 Incoming Software Engineering Intern at Blue Origin, Microsoft! Previous Software Engineering Intern Intern at Amazon, Solala, Google, Microsoft (sdet),  Symetra 
 - 👩🏽‍🏫 Founder, Tutor, and Junior Web Developer at Tutors of the Smiling Coast
