@@ -29,7 +29,7 @@
 
 
 #### I am currently:
-- 💻 Incoming Software Engineering Intern at Blue Origin, Microsoft! Previous Software Engineering Intern Intern at Amazon, Solala, Google, Microsoft (sdet),  Symetra 
+- 💻 Software Engineering Intern at Blue Origin, Incoming @ Microsoft! Previous Software Engineering Intern Intern at Amazon, Solala, Google, Microsoft (sdet),  Symetra 
 - 👩🏽‍🏫 Founder, Tutor, and Junior Web Developer at Tutors of the Smiling Coast
 - 🎓 B.S. Computer Science at University of Washington - Paul G. Allen School of Computer Science & Engineering (Expected December 2023)  
 - 📍 &nbsp;Located in Seattle, WA  
