@@ -20,7 +20,7 @@
   <br>
   <br>
   
-  <a href="https://medium.com/me/stories/public" target="_blank" style= "padding: 10px"> Check Out my Medium Blog! </a>
+  <a href="https://medium.com/@hawaalid" target="_blank" style= "padding: 10px"> Check Out my Medium Blog! </a>
 </span>
 
 
