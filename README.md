@@ -33,20 +33,7 @@
 - 👩🏽‍🏫 Founder, Tutor, and Junior Web Developer at Tutors of the Smiling Coast
 - 🎓 B.S. Computer Science at University of Washington - Paul G. Allen School of Computer Science & Engineering (Expected December 2023)  
 - 📍 &nbsp;Located in Seattle, WA  
-
-
-<p><b>I recently completed online courses in Git, Node JS, JavaScript, & Docker  </b>
-  <br >See my work here:
-<ul>
-  <li> <a href="https://github.com/hawad416/AdvancedWebDevelopmentProjects">Advanced Web Development Projects</a></li>
-  <li>  <a href="https://github.com/hawad416/NodeJS">Projects Utilizing NodeJS</a></li>
-  <li>  <a href="https://github.com/hawad416/BasicJavaScriptProjects">Basic JavaScript Projects</a></li>
-  
-  </ul>
-</p>
-
-<hr>
-
+-
 
 #### I have experience with:
 ##### Languages
