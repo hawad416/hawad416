@@ -33,9 +33,8 @@
 - 👩🏽‍🏫 Founder, Tutor, and Junior Web Developer at Tutors of the Smiling Coast
 - 🎓 B.S. Computer Science at University of Washington - Paul G. Allen School of Computer Science & Engineering (Expected December 2023)  
 - 📍 &nbsp;Located in Seattle, WA  
--
 
-#### I have experience with:
+
 ##### Languages
 <span>
   <!-- Java -->
