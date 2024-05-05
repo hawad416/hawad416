@@ -12,15 +12,6 @@
    Let's connect!       
   </a>
   <br>
-  <br>
-<a href="https://www.youtube.com/channel/UCWIMo_AmBpRFRpk3a5TDUhg" target="_blank" style= "padding: 10px">
- <img src="https://img.icons8.com/doodle/48/000000/youtube-play--v2.png" width="23px" height="18px"/>
-  Check Out My Coding Practice Videos Here!
-  </a>
-  <br>
-  <br>
-  
-  <a href="https://medium.com/@hawaalid" target="_blank" style= "padding: 10px"> Check Out my Medium Blog! </a>
 </span>
 
 
