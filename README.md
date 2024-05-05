@@ -1,8 +1,7 @@
 
 <h1 align="center">   ~ بسم الله الرحمن الرحيم ~  </h1>
 
-### Salam, I'm Hawa!
-#### Student of Knowledge....
+### hiiii, i'm hawa ali drammeh!
 <hr>
 
 
