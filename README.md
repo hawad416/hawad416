@@ -4,6 +4,8 @@
 ### hiiii, i'm hawa ali drammeh :) 
 <hr>
 
+i <3 java
+
 
 <span>
 <a href="https://www.linkedin.com/in/hawadrammeh/" target="_blank" style="margin-right:50px">
